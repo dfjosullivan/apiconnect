@@ -620,7 +620,7 @@ securityDefinitions:
     scopes:
       inventory: Access to all inventory resources
     tokenUrl: >-
-      https://api.au.apiconnect.ibmcloud.com/cloud-accelerator-denis-workspace/sb
+      https://api.au.apiconnect.ibmcloud.com/cloud-accelerator-denis-workspace/sb/oauth2/token
   clientIdHeader:
     type: apiKey
     in: header

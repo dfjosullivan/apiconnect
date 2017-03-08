@@ -266,10 +266,7 @@ x-ibm-configuration:
     scopes:
       inventory: Access to Inventory API
     grants:
-      - application
       - password
-      - accessCode
-      - implicit
     identity-extraction:
       type: basic
     authentication:
